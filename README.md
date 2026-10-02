@@ -1,4 +1,8 @@
 # LSB Steganography - Source Code & Implementation
+![Language](https://img.shields.io/badge/Language-C-blue.svg)
+[![Compiler](https://img.shields.io/badge/Compiler-GCC%20%7C%20Clang-green.svg)](https://gcc.gnu.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20WSL%20%7C%20Windows-orange.svg)]()
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This directory contains the complete C implementation of the **Least Significant Bit (LSB) Image Steganography** algorithm for 24-bit uncompressed BMP images.
 
